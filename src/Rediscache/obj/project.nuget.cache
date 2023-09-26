@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lry2f7I1+I1ZXi8yR370eytQNg1TCUWT/NdvSqDGrcq/vsOy/uGxLLaG//qRMTU0VNBb7NmNFu/PEmggVDLeg==",
+  "success": true,
+  "projectFilePath": "/Users/henryfaulkner/Desktop/Current-Projects/Az204-Redis/Rediscache/Rediscache.csproj",
+  "expectedPackageFiles": [
+    "/Users/henryfaulkner/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/henryfaulkner/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",
+    "/Users/henryfaulkner/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

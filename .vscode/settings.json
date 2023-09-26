@@ -1,0 +1,8 @@
+{
+    "azureFunctions.deploySubpath": "src/function-queue-cassandra/triggerFunction/bin/Release/net6.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "src/function-queue-cassandra/triggerFunction",
+    "azureFunctions.preDeployTask": "publish (functions)"
+}
