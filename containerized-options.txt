@@ -1,0 +1,2 @@
+https://learn.microsoft.com/en-us/azure/container-apps/compare-options
+^ link to difference between hosted containerized application services
